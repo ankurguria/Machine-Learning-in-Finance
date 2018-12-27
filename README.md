@@ -35,11 +35,14 @@ In order to run these scripts, you'll need the following libraries.
      
      `source activete tensorflow`
   
-  4.  If you haven't done so already, download and unzip this entire repository from GitHub, either interactively, or by entering
+  4. If you haven't done so already, download and unzip this entire repository from GitHub, either interactively, or by entering 
+     
+     `git clone https://github.com/ankurguria/https://github.com/ankurguria/Machine-Learning-in-Finance`
+     
+  5. Use `cd` to navigate into the top directory of the repo on your machine
 
-git clone https://github.com/adeshpande3/LSTM-Sentiment-Analysis
-Use cd to navigate into the top directory of the repo on your machine
-
-Launch Jupyter by entering
-
-jupyter notebook
+  6. Launch Jupyter by entering
+  
+     `jupyter notebook`
+     
+     and, using your browser, navigate to the URL shown in the terminal output (usually http://localhost:8888/)

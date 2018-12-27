@@ -25,15 +25,13 @@ In order to run these scripts, you'll need the following libraries.
 * [Matplotlib](https://matplotlib.org/users/installing.html)
 **The easiest way to install TensorFlow as well as all the other libraries is to start with the Anaconda Python distribution.
 
-## Installing Anaconda Python and TensorFlow
+### Installing Anaconda Python and TensorFlow
 
-1.Follow the installation instructions for Anaconda Python. We recommend using Python 3.6.
+  1. Follow the [installation instructions for Anaconda](https://conda.io/docs/user-guide/install/windows.html) Python. We recommend using Python 3.6.
 
-Follow the platform-specific TensorFlow installation instructions. Be sure to follow the "Installing with Anaconda" process, and create a Conda environment named tensorflow.
+  2. Follow the platform-specific [TensorFlow installation instructions](https://www.tensorflow.org/install/). Be sure to follow the "Installing with Anaconda" process, and create a Conda environment named `tensorflow`.
 
-If you aren't still inside your Conda TensorFlow environment, enter it by opening your terminal and typing
-
-source activate tensorflow
+  3. If you aren't still inside your Conda TensorFlow environment, enter it by opening your terminal and typing `source activate tensorflow`
 If you haven't done so already, download and unzip this entire repository from GitHub, either interactively, or by entering
 
 git clone https://github.com/adeshpande3/LSTM-Sentiment-Analysis

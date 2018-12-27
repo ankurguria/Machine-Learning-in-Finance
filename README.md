@@ -32,8 +32,10 @@ In order to run these scripts, you'll need the following libraries.
   2. Follow the platform-specific [TensorFlow installation instructions](https://www.tensorflow.org/install/). Be sure to follow the "Installing with Anaconda" process, and create a Conda environment named `tensorflow`.
 
   3. If you aren't still inside your Conda TensorFlow environment, enter it by opening your terminal and typing 
+  `
+  source activate tensorflow
   
-     `source activate tensorflow`
+  `
   4.  If you haven't done so already, download and unzip this entire repository from GitHub, either interactively, or by entering
 
 git clone https://github.com/adeshpande3/LSTM-Sentiment-Analysis

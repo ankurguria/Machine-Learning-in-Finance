@@ -23,7 +23,7 @@ In order to run these scripts, you'll need the following libraries.
 * [Quandle](https://www.quandl.com/tools/python) with a free and email-verified account
 * [Seaborn](https://seaborn.pydata.org/installing.html)
 * [Matplotlib](https://matplotlib.org/users/installing.html)
-**The easiest way to install TensorFlow as well as all the other libraries is to start with the Anaconda Python distribution.
+**The easiest way to install TensorFlow as well as all the other libraries is to start with the Anaconda Python distribution**.
 
 ### Installing Anaconda Python and TensorFlow
 

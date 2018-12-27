@@ -11,7 +11,7 @@ Problems Attempted :
 
 ## Downloading Data
 
-The data used here, is of the companies on the NIFTY 50 index, National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market, which has been dowloaded usng the [Quandl](https://www.quandl.com) API. 
+The stock data used here, is of the companies on the NIFTY 50 index, National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market, which has been dowloaded usng the [Quandl](https://www.quandl.com) API and the ticker symbols of the companies from [wiki](https://en.wikipedia.org/wiki/NIFTY_50). To train the models on some other company data, search those comapnies on Quandl grab their QuadlCode. e.g. **the QuandlCode for the company "Adaniports" is "NSE/ADANIPORTS" where NSE stands for National Stock Exchange**. 
 
 ## Requirements and Installation
 

@@ -44,6 +44,8 @@ In order to run these scripts, you'll need the following libraries.
 
   6. Launch Jupyter by entering
   
-     ```jupyter notebook```
+     ```
+     jupyter notebook
+     ```
      
      and, using your browser, navigate to the URL shown in the terminal output (usually http://localhost:8888/)

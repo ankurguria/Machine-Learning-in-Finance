@@ -1,17 +1,13 @@
-## Machine Learning in Finance
+# Machine Learning in Finance
 
 For this project, under the guidance of Dr. Kushal Kr. Shah at the Indian Institute of Science Education and Research, Bhopal, I wanted to apply Machine Learning algorithms on stock data to help traders increase their returns. The second and third part of the project can be used by any trader on the historical stock data of the stocks in their watch list, to choose better financial indicators and portfolio optimization. 
 
 ## Overview
 
 Problems Attempted : 
-* A classification problem : Classification of the NIFTY-50 companies sector-wise using their daily stock data. 
-* Choosing the best financial indicators for a particular trading strategy to maximize returns.
-* Portfolio Optimization: Optimization of the fractions of the trader's capital to be invested in each of the stocks in the trader's watchlist for maximum profit.
-
-The very first problem was done as a starter to get an idea of structuring a complete Machine Learning project including data collection, data cleaning, making a prediction model and then 
-
-
+* MultiClass Classification: This file shows a multiclass classification of NIFTY 50 companies sector-wise using daily stock data which can be used by a beginner in Machine Learning as a starter to get an idea of structuring a complete Machine Learning project including data collection (unlike competitions), data cleaning and making a prediction model on it.
+* Best Feature Selection: Shows how to choose the best financial indicators for a particular trading strategy to maximize returns. A trader can add more parameterss or features or financial indicators to their model and select the best out of them.
+* Portfolio Optimization: File showing how to optimize the fractions of the trader's capital to be invested in each of the stocks in the trader's watchlist, for maximum profit.
 
 [editor on GitHub](https://github.com/ankurguria/MultiClass-Classification-of-stock-data-sectorwise-using-Scikit-Learn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

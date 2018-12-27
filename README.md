@@ -2,7 +2,7 @@
 
 For this project, under the guidance of Dr. Kushal Kr. Shah at the Indian Institute of Science Education and Research, Bhopal, I wanted to apply Machine Learning algorithms on stock data to help traders increase their returns. The second and third part of the project can be used by any trader on the historical stock data of the stocks in their watch list, to choose better financial indicators and portfolio optimization. 
 
-### Overview
+## Overview
 
 Problems Attempted : 
 * A classification problem : Classification of the NIFTY-50 companies sector-wise using their daily stock data. 

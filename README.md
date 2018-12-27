@@ -1,9 +1,12 @@
 ## Machine Learning in Finance
 
+This project was done during my Summer Internship'18, under the guidance of Dr. Kushal Kr. Shah at the Indian Institute of Science Education and Research, Bhopal. The very first problem was done as a starter to get an idea of structuring a complete Machine Learning project including data collection, data cleaning, making a prediction model and then 
+
 Problems Attempted : 
-* A classification problem : we classified the NIFTY-50 companies sector-wise using their daily stock data ( as a starter ).
-* Choosing the best financial indicators for a particular strategy to maximize returns.
-* Portfolio Optimization: optimizing the fractions of the trader's capital to be invested in each of the stocks in his/her watchlist for maximum profit.
+* A classification problem : Classification of the NIFTY-50 companies sector-wise using their daily stock data. 
+* Choosing the best financial indicators for a particular trading strategy to maximize returns.
+* Portfolio Optimization: Optimization of the fractions of the trader's capital to be invested in each of the stocks in the trader's watchlist for maximum profit.
+
 
 
 

@@ -20,7 +20,7 @@ In order to run these scripts, you'll need the following libraries.
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 * [Numpy](https://docs.scipy.org/doc/numpy/user/install.html)
 * [Scikit-learn](https://scikit-learn.org/stable/install.html)
-* [Quandle](https://www.quandl.com/tools/python0
+* [Quandle](https://www.quandl.com/tools/python)
 * [Seaborn](https://seaborn.pydata.org/installing.html)
 * [Matplotlib](https://matplotlib.org/users/installing.html)
 

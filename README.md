@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Machine Learning in Finance
 
-You can use the [editor on GitHub](https://github.com/ankurguria/MultiClass-Classification-of-stock-data-sectorwise-using-Scikit-Learn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Problems Attempted : 
+* A classification problem : we classified the NIFTY-50 companies sector-wise using their daily stock data ( as a starter ).
+* Choosing the best financial indicators for a particular strategy to maximize returns.
+* Portfolio Optimization: optimizing the fractions of the trader's capital to be invested in each of the stocks in his/her watchlist for maximum profit.
+
+
+
+[editor on GitHub](https://github.com/ankurguria/MultiClass-Classification-of-stock-data-sectorwise-using-Scikit-Learn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

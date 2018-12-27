@@ -11,7 +11,7 @@ Problems Attempted :
 
 ## Downloading Data
 
-The stock data used here, is of the companies on the NIFTY 50 index, National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market, which has been dowloaded usng the [Quandl](https://www.quandl.com) API and the ticker symbols of the companies from [wiki](https://en.wikipedia.org/wiki/NIFTY_50). To train the models on some other company data, search those comapnies on Quandl grab their QuadlCode. e.g. **the QuandlCode for the company "Adaniports" is "NSE/ADANIPORTS" where NSE stands for National Stock Exchange**. 
+The stock data used here, is of the companies on the NIFTY 50 index, National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market, which has been dowloaded using the [Quandl](https://www.quandl.com) API, and the ticker symbols of the companies from [wiki](https://en.wikipedia.org/wiki/NIFTY_50). To train the models on some other company data, search for those companies on Quandl and grab their QuadlCodes and replace the eisting codes with them. e.g. **the QuandlCode for the company "Adaniports" is "NSE/ADANIPORTS" where NSE stands for National Stock Exchange**. 
 
 ## Requirements and Installation
 
@@ -20,7 +20,7 @@ In order to run these scripts, you'll need the following libraries.
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 * [Numpy](https://docs.scipy.org/doc/numpy/user/install.html)
 * [Scikit-learn](https://scikit-learn.org/stable/install.html)
-* [Quandle](https://www.quandl.com/tools/python)
+* [Quandle](https://www.quandl.com/tools/python) with a free and email-verified account
 * [Seaborn](https://seaborn.pydata.org/installing.html)
 * [Matplotlib](https://matplotlib.org/users/installing.html)
 

@@ -16,44 +16,29 @@ The stock data used here, is of the companies on the NIFTY 50 index, National St
 ## Requirements and Installation
 
 In order to run these scripts, you'll need the following libraries.
-* [Tensorflow](https://www.tensorflow.org/install/) version 1.0 or later
+* [Tensorflow](https://www.tensorflow.org/install/) 
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 * [Numpy](https://docs.scipy.org/doc/numpy/user/install.html)
 * [Scikit-learn](https://scikit-learn.org/stable/install.html)
 * [Quandle](https://www.quandl.com/tools/python) with a free and email-verified account
 * [Seaborn](https://seaborn.pydata.org/installing.html)
 * [Matplotlib](https://matplotlib.org/users/installing.html)
+**The easiest way to install TensorFlow as well as all the other libraries is to start with the Anaconda Python distribution.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installing Anaconda Python and TensorFlow
 
-### Markdown
+1.Follow the installation instructions for Anaconda Python. We recommend using Python 3.6.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow the platform-specific TensorFlow installation instructions. Be sure to follow the "Installing with Anaconda" process, and create a Conda environment named tensorflow.
 
-```markdown
-Syntax highlighted code block
+If you aren't still inside your Conda TensorFlow environment, enter it by opening your terminal and typing
 
-# Header 1q
-## Header 2
-### Header 3
+source activate tensorflow
+If you haven't done so already, download and unzip this entire repository from GitHub, either interactively, or by entering
 
-- Bulleted
-- List
+git clone https://github.com/adeshpande3/LSTM-Sentiment-Analysis
+Use cd to navigate into the top directory of the repo on your machine
 
-1. Numbered
-2. List
+Launch Jupyter by entering
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankurguria/MultiClass-Classification-of-stock-data-sectorwise-using-Scikit-Learn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+jupyter notebook

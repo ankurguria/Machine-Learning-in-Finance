@@ -1,6 +1,6 @@
 # Machine Learning in Finance
 
-For this project, under the guidance of Dr. Kushal Kr. Shah at the Indian Institute of Science Education and Research, Bhopal, I wanted to apply Machine Learning algorithms on stock data to help traders increase their returns. The second and third part of the project can be used by any trader on the historical stock data of the stocks in their watch list, to choose better financial indicators and portfolio optimization. 
+For this project, under the guidance of Dr. Kushal Kr. Shah at the Indian Institute of Science Education and Research, Bhopal, I wanted to apply Machine Learning algorithms on stock data to help traders increase their returns. The second and third part of the project can be used by any trader on the historical stock data of the stocks in their watch list, to choose better financial indicators and for portfolio optimization. 
 
 ## Overview
 
@@ -20,7 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1q
 ## Header 2
 ### Header 3
 

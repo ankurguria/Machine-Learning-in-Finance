@@ -6,12 +6,12 @@ For this project, under the guidance of Dr. Kushal Kr. Shah, at the Indian Insti
 
 Problems Attempted : 
 * **MultiClass Classification.ipynb** : This file shows a multiclass classification of NIFTY 50 companies sector-wise using daily stock data which can be used by a beginner in Machine Learning as a starter to get an idea of structuring a complete Machine Learning project including data collection (unlike competitions), data cleaning and making a prediction model on it.
-* **Best Feature Selection.ipynb** : Shows how to choose the best financial indicators for a particular trading strategy to maximize returns. A trader can add more parameterss or features or financial indicators to their model and select the best out of them.
+* **Best Feature Selection.ipynb** : Shows how to choose the best financial indicators for a particular trading strategy to maximize returns. A trader can add more parameters or features or financial indicators to their model and select the best out of them.
 * **Portfolio Optimization.ipynb** : File showing how to optimize the fractions of the trader's capital to be invested in each of the stocks in the trader's watchlist, for maximum profit.
 
 ## Downloading Data
 
-The stock data used here, is of the companies on the NIFTY 50 index, National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market, which has been dowloaded using the [Quandl](https://www.quandl.com) API, and the ticker symbols of the companies from [wiki](https://en.wikipedia.org/wiki/NIFTY_50). To train the models on some other company data, search for those companies on Quandl and grab their QuadlCodes and replace the eisting codes with them. e.g. **the QuandlCode for the company "Adaniports" is "NSE/ADANIPORTS" where NSE stands for National Stock Exchange**. 
+The stock data used here, is of the companies on the NIFTY 50 index, National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market, which has been dowloaded using the [Quandl](https://www.quandl.com) API, and the ticker symbols of the companies from [wiki](https://en.wikipedia.org/wiki/NIFTY_50). To train the models on some other company data, search for those companies on Quandl and grab their QuandlCodes and replace the eisting codes with them. e.g. **the QuandlCode for the company "Adaniports" is "NSE/ADANIPORTS" where NSE stands for National Stock Exchange**. 
 
 ## Requirements and Installation
 

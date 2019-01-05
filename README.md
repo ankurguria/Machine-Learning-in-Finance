@@ -20,7 +20,7 @@ In order to run these scripts, you'll need the following libraries.
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 * [Numpy](https://docs.scipy.org/doc/numpy/user/install.html)
 * [Scikit-learn](https://scikit-learn.org/stable/install.html)
-* [Quandle](https://www.quandl.com/tools/python) with a free and email-verified account
+* [Quandl](https://www.quandl.com/tools/python) with a free and email-verified account
 * [Seaborn](https://seaborn.pydata.org/installing.html)
 * [Matplotlib](https://matplotlib.org/users/installing.html)
 
@@ -35,7 +35,7 @@ In order to run these scripts, you'll need the following libraries.
   3. If you aren't still inside your Conda TensorFlow environment, enter it by opening your terminal and typing 
      
      ```
-     source activete tensorflow
+     source activate tensorflow
      ```
   
   4. If you haven't done so already, download and unzip this entire repository from GitHub, either interactively, or by entering 
